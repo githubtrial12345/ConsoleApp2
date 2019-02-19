@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace ConsoleApp2
 {
@@ -12,7 +9,7 @@ namespace ConsoleApp2
         {
             Console.WriteLine("Hej igen.");
             Console.WriteLine("Github?");
-            Console.WriteLine("VI VINDER");
+            Console.WriteLine("VI VINDER!");
             Console.ReadLine();
         }
     }
