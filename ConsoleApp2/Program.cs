@@ -10,6 +10,10 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hej igen.");
+            Console.WriteLine("Github?");
+            Console.WriteLine("VI VINDER");
+            Console.ReadLine();
         }
     }
 }
