@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ConsoleApp2
 {
@@ -10,6 +6,13 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
+
+
+            Console.WriteLine("hej morten");
+            Console.WriteLine("Hello World");
+            Console.WriteLine("GitHub is the best!");
+            Console.ReadLine();
+
         }
     }
 }
